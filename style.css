@@ -62,7 +62,6 @@
   height: 100%;
   display: flex;
   justify-content: center;
-  /* height: 50px; */
   gap: 10px;
 }
 .three-equal-blocks > div{
